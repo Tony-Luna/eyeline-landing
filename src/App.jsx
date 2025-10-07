@@ -62,7 +62,7 @@ export default function EyelineLanding() {
           </form>
 
           <p className="text-slate-400 mb-16">
-            Launching Q2 2025 · Join 100+ engineers on the waitlist
+            Coming soon...
           </p>
         </div>
 
